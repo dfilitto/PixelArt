@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/dfilitto/MeuBichinhoVirtual/main/C-Sharp%20-%20Construindo%20um%20bichinho%20virtual.jpg)
+![](https://github.com/dfilitto/PixelArt/blob/main/PIXEL%20ART.jpg?raw=true)
 
 # Pixel Art
 
