@@ -14,5 +14,7 @@ Durante o curso você aprenderá:
 - Criação de personagens, objetos e cenários pixelizados.
 
 🚀 Piskel: https://www.piskelapp.com/ 
-🚀 Playlist do curso: 
+
+🚀 Playlist do curso: https://www.youtube.com/playlist?list=PLfvOpw8k80WpyfiXTvd2OO-K7v-LyefoD
+
 🚀 Dica de curso: http://desenvolvedordejogos.dfilitto.com.br/
